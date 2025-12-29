@@ -23,6 +23,8 @@ website:
         href: https://github.com/phranchise
       - icon: linkedin
         href: https://www.linkedin.com/in/shenal-alexander-peries/
+      - icon: rss
+        href: /_site/blog/index.xml
   page-footer: 
     left: © 2026 Shenal Peries
     right:  
