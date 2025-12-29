@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  site-url: https://shenalperies.github.io/personal-portfolio/
+  site-url: https://phranchise.github.io/personal-portfolio/
   favicon: logos/personal-logo.svg
   google-analytics: UA-XXXXXXXXX-X
   title: "Shenal Peries's Portfolio"
