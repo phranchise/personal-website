@@ -24,7 +24,7 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/shenal-alexander-peries/
       - icon: rss
-        href: /_site/blog/index.xml
+        href: docs/blog/index.xml
   page-footer: 
     left: © 2026 Shenal Peries
     right:  
