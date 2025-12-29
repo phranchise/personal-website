@@ -1,6 +1,12 @@
 ---
 title: "Building a Cat vs Dog Classifier with fast.ai (Lesson 2)"
+description: "A simple model to classify if a given image is a dog or cat with a confidence level"
+author: "Shenal Alexander Peries"
 date: 2025-12-27
+categories:
+    - fastai
+    - code
+    - machine learning
 ---
 
 ## What I built

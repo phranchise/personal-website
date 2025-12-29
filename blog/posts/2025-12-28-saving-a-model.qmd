@@ -1,8 +1,12 @@
 ---
 title: Saving a Basic Fastai Model
 description: How to create and save a ML model
+author: Shenal Peries
 date: 2025-12-28
-categories: true
+categories:
+    - fastai
+    - code
+
 ---
 
 # 1. Creating a Model

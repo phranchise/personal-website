@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hi, I’m Alex",
-    "section": "",
-    "text": "I’m a Data Science + Corporate Finance student building practical ML and analytics projects.\n\nCurrently: fast.ai, Kaggle, analytics projects\nInterests: ML appps, automation, finance analystics\n\n\n\n\n\n\n\nTipQuick links:\n\n\n\nProjects.Blog.GitHub.LinkedIn"
-  },
-  {
-    "objectID": "index.html#hello-world",
-    "href": "index.html#hello-world",
-    "title": "Hi, I’m Alex",
-    "section": "",
-    "text": "Insert some random text\n\n\nAnd some more text here."
-  },
-  {
-    "objectID": "python-example.html",
-    "href": "python-example.html",
-    "title": "HTML Example",
-    "section": "",
-    "text": "print(\"Hello, World\")\n\nHello, World"
-  },
-  {
-    "objectID": "python-example.html#heres-a-python-code-example",
-    "href": "python-example.html#heres-a-python-code-example",
-    "title": "HTML Example",
-    "section": "",
-    "text": "print(\"Hello, World\")\n\nHello, World"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -35,25 +7,11 @@
     "text": "Data Science (B.S.) + Finance (B.S.)\nBuilding ML demos and analytics writeups\nInterested in internships and applied projects\n\nContact: Email.LinkedIn"
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Alex",
     "section": "",
-    "text": "Here are notes and writeups from projects and learning.\n\nBuilding a Cat vs Dog Classifier with fast.ai\n\nfastai"
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "What: Image classifier with confidence scores\nLinks: Demo"
-  },
-  {
-    "objectID": "projects/index.html#cat-vs-dog-classifier-fast.ai",
-    "href": "projects/index.html#cat-vs-dog-classifier-fast.ai",
-    "title": "Projects",
-    "section": "",
-    "text": "What: Image classifier with confidence scores\nLinks: Demo"
+    "text": "I’m a Data Science + Corporate Finance student building practical ML and analytics projects.\n\nCurrently: fast.ai, Kaggle, analytics projects\nInterests: ML apps, automation, finance analystics\n\n\n\n\n\n\n\nTipQuick links:\n\n\n\nProjects.Blog.GitHub.LinkedIn"
   },
   {
     "objectID": "blog/posts/2025-12-27-cat-dog-classifier-fastai.html",
@@ -102,6 +60,27 @@
     "href": "blog/posts/2025-12-28-saving-a-model.html",
     "title": "Saving a Basic Fastai Model",
     "section": "",
-    "text": "1. Creating a Model\na bunch of text"
+    "text": "1. Creating a Model\na bunch of text\nprint sidflsk print sidflsk\n\nprint(\"Hehe\")\n\nHehe\n\n\nsidflsk"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Here are notes and writeups from projects and learning.\n\nBuilding a Cat vs Dog Classifier with fast.ai\n\nfastai\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSaving a Basic Fastai Model\n\n\n\nfastai\n\ncode\n\n\n\nHow to create and save a ML model\n\n\n\n\n\nDec 28, 2025\n\n\nShenal Peries\n\n\n\n\n\n\n\n\n\n\n\n\nBuilding a Cat vs Dog Classifier with fast.ai (Lesson 2)\n\n\n\nfastai\n\ncode\n\nmachine learning\n\n\n\nA simple model to classify if a given image is a dog or cat with a confidence level\n\n\n\n\n\nDec 27, 2025\n\n\nShenal Alexander Peries\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "What: Image classifier with confidence scores\nLinks: Demo"
+  },
+  {
+    "objectID": "projects/index.html#cat-vs-dog-classifier-fast.ai",
+    "href": "projects/index.html#cat-vs-dog-classifier-fast.ai",
+    "title": "Projects",
+    "section": "",
+    "text": "What: Image classifier with confidence scores\nLinks: Demo"
   }
 ]

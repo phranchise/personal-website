@@ -6,7 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Shenal Alexander Peries">
 <meta name="dcterms.date" content="2025-12-27">
+<meta name="description" content="A simple model to classify if a given image is a dog or cat with a confidence level">
 
 <title>Building a Cat vs Dog Classifier with fast.ai (Lesson 2) – Shenal Peries’s Portfolio</title>
 <style>
@@ -42,7 +44,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-cc1d64809b8ed731f92ea1275fe9f05b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-1b233364819e003d72453269d45156df.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -123,9 +125,10 @@ ga('send', {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-            <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools tools-wide">
     <a href="https://github.com/phranchise" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
     <a href="https://www.linkedin.com/in/shenal-alexander-peries/" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-linkedin"></i></a>
+    <a href="../../index.xml" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-rss"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -153,12 +156,28 @@ ga('send', {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Building a Cat vs Dog Classifier with fast.ai (Lesson 2)</h1>
-</div>
+  <div class="quarto-categories">
+    <div class="quarto-category">fastai</div>
+    <div class="quarto-category">code</div>
+    <div class="quarto-category">machine learning</div>
+  </div>
+  </div>
 
+<div>
+  <div class="description">
+    A simple model to classify if a given image is a dog or cat with a confidence level
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Shenal Alexander Peries </p>
+          </div>
+  </div>
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
@@ -275,7 +294,7 @@ ga('send', {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/phranchise\.github\.io\/personal-portfolio");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
