@@ -1,0 +1,7 @@
+---
+title: "Projects"
+---
+
+## Cat vs Dog Classifier (fast.ai)
+- What: Image classifier with confidence scores
+- Links: [Demo](https://phranchise.github.io/cat_dog_classifier/)

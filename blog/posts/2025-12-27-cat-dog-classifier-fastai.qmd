@@ -1,0 +1,20 @@
+---
+title: "Building a Cat vs Dog Classifier with fast.ai (Lesson 2)"
+date: 2025-12-27
+---
+
+## What I built
+1–2 paragraphs + demo link.
+
+## What surprised me
+Bullets.
+
+## Results
+Insert screenshots from `images/`.
+
+## What I’d improve next
+Bullets.
+
+## Links
+- Demo:
+- Repo:

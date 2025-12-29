@@ -1,0 +1,17 @@
+---
+title: "Hi, I'm Alex"
+---
+
+I'm a Data Science + Corporate Finance student building practical ML and analytics projects.
+
+- Currently: fast.ai, Kaggle, analytics projects
+- Interests: ML appps, automation, finance analystics
+
+
+::: {.callout-tip icon=false}
+
+## Quick links:
+
+[Projects](projects/index.qmd).[Blog](blog/index.qmd).[GitHub](https://github.com/phranchise).[LinkedIn](https://www.linkedin.com/in/shenal-alexander-peries/)
+
+:::

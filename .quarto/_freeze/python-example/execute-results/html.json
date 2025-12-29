@@ -1,0 +1,12 @@
+{
+  "hash": "6bd3ebd31b821c4dd358983b301fea42",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"HTML Example\"\n--- \n\n## Here's a Python code example \n\n::: {#98f8e695 .cell execution_count=1}\n``` {.python .cell-code}\nprint(\"Hello, World\")\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nHello, World\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "python-example_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

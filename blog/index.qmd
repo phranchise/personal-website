@@ -1,0 +1,14 @@
+---
+title: "Blog"
+
+
+
+
+
+---
+
+Here are notes and writeups from projects and learning.
+
+- [Building a Cat vs Dog Classifier with fast.ai](/blog/posts/2025-12-27-cat-dog-classifier-fastai.qmd)
+
+[fastai](/blog/posts/2025-12-28-saving-a-model.qmd)

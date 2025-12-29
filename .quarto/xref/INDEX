@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "b7d1783f"
+  },
+  "dashboard.qmd": {
+    "dashboard.html": "675fb5a2"
+  },
+  "python-example.qmd": {
+    "python-example.html": "4cfbb7a3"
+  },
+  "about.qmd": {
+    "about.html": "4e24bf99"
+  },
+  "blog/index.qmd": {
+    "index.html": "7c63b281"
+  },
+  "projects/index.qmd": {
+    "index.html": "8caa61e3"
+  },
+  "blog/posts/2025-12-27-cat-dog-classifier-fastai.qmd": {
+    "2025-12-27-cat-dog-classifier-fastai.html": "d5375a03"
+  },
+  "blog/posts/2025-12-28-saving-a-model.qmd": {
+    "2025-12-28-saving-a-model.html": "1a13512c"
+  }
+}

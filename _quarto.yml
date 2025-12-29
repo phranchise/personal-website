@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  favicon: logos/favicon.ico
+  google-analytics: UA-XXXXXXXXX-X
+  title: "Shenal Peries's Portfolio"
+  description: "A portfolio showcasing projects and examples by Shenal Peries."
+  navbar:
+    logo: logos/logo.jpg
+    right:
+      - text: Projects
+        href: projects/index.qmd
+      - text: Blog
+        href: blog/index.qmd
+      - text: About
+        href: about.qmd
+          
+    tools:
+      - icon: github
+        href: https://github.com/phranchise
+      - icon: linkedin
+        href: https://www.linkedin.com/in/shenal-alexander-peries/
+  page-footer: 
+    left: © 2026 Shenal Peries
+    right:  
+    - icon: github
+      href: https://github.com/phranchise
+    - icon: linkedin
+      href: https://www.linkedin.com/in/shenal-alexander-peries/
+
+format:
+  html:
+    theme: lux
+    toc: true

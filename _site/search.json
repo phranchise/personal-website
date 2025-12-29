@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Alex",
+    "section": "",
+    "text": "I’m a Data Science + Corporate Finance student building practical ML and analytics projects.\n\nCurrently: fast.ai, Kaggle, analytics projects\nInterests: ML appps, automation, finance analystics\n\n\n\n\n\n\n\nTipQuick links:\n\n\n\nProjects.Blog.GitHub.LinkedIn"
+  },
+  {
+    "objectID": "index.html#hello-world",
+    "href": "index.html#hello-world",
+    "title": "Hi, I’m Alex",
+    "section": "",
+    "text": "Insert some random text\n\n\nAnd some more text here."
+  },
+  {
+    "objectID": "python-example.html",
+    "href": "python-example.html",
+    "title": "HTML Example",
+    "section": "",
+    "text": "print(\"Hello, World\")\n\nHello, World"
+  },
+  {
+    "objectID": "python-example.html#heres-a-python-code-example",
+    "href": "python-example.html#heres-a-python-code-example",
+    "title": "HTML Example",
+    "section": "",
+    "text": "print(\"Hello, World\")\n\nHello, World"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Data Science (B.S.) + Finance (B.S.)\nBuilding ML demos and analytics writeups\nInterested in internships and applied projects\n\nContact: Email.LinkedIn"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Here are notes and writeups from projects and learning.\n\nBuilding a Cat vs Dog Classifier with fast.ai\n\nfastai"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "What: Image classifier with confidence scores\nLinks: Demo"
+  },
+  {
+    "objectID": "projects/index.html#cat-vs-dog-classifier-fast.ai",
+    "href": "projects/index.html#cat-vs-dog-classifier-fast.ai",
+    "title": "Projects",
+    "section": "",
+    "text": "What: Image classifier with confidence scores\nLinks: Demo"
+  },
+  {
+    "objectID": "blog/posts/2025-12-27-cat-dog-classifier-fastai.html",
+    "href": "blog/posts/2025-12-27-cat-dog-classifier-fastai.html",
+    "title": "Building a Cat vs Dog Classifier with fast.ai (Lesson 2)",
+    "section": "",
+    "text": "1–2 paragraphs + demo link."
+  },
+  {
+    "objectID": "blog/posts/2025-12-27-cat-dog-classifier-fastai.html#what-i-built",
+    "href": "blog/posts/2025-12-27-cat-dog-classifier-fastai.html#what-i-built",
+    "title": "Building a Cat vs Dog Classifier with fast.ai (Lesson 2)",
+    "section": "",
+    "text": "1–2 paragraphs + demo link."
+  },
+  {
+    "objectID": "blog/posts/2025-12-27-cat-dog-classifier-fastai.html#what-surprised-me",
+    "href": "blog/posts/2025-12-27-cat-dog-classifier-fastai.html#what-surprised-me",
+    "title": "Building a Cat vs Dog Classifier with fast.ai (Lesson 2)",
+    "section": "What surprised me",
+    "text": "What surprised me\nBullets."
+  },
+  {
+    "objectID": "blog/posts/2025-12-27-cat-dog-classifier-fastai.html#results",
+    "href": "blog/posts/2025-12-27-cat-dog-classifier-fastai.html#results",
+    "title": "Building a Cat vs Dog Classifier with fast.ai (Lesson 2)",
+    "section": "Results",
+    "text": "Results\nInsert screenshots from images/."
+  },
+  {
+    "objectID": "blog/posts/2025-12-27-cat-dog-classifier-fastai.html#what-id-improve-next",
+    "href": "blog/posts/2025-12-27-cat-dog-classifier-fastai.html#what-id-improve-next",
+    "title": "Building a Cat vs Dog Classifier with fast.ai (Lesson 2)",
+    "section": "What I’d improve next",
+    "text": "What I’d improve next\nBullets."
+  },
+  {
+    "objectID": "blog/posts/2025-12-27-cat-dog-classifier-fastai.html#links",
+    "href": "blog/posts/2025-12-27-cat-dog-classifier-fastai.html#links",
+    "title": "Building a Cat vs Dog Classifier with fast.ai (Lesson 2)",
+    "section": "Links",
+    "text": "Links\n\nDemo:\nRepo:"
+  },
+  {
+    "objectID": "blog/posts/2025-12-28-saving-a-model.html",
+    "href": "blog/posts/2025-12-28-saving-a-model.html",
+    "title": "Saving a Basic Fastai Model",
+    "section": "",
+    "text": "1. Creating a Model\na bunch of text"
+  }
+]

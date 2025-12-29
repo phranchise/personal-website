@@ -1,0 +1,24 @@
+---
+title: Saving a Basic Fastai Model
+description: How to create and save a ML model
+date: 2025-12-28
+categories: true
+---
+
+# 1. Creating a Model
+
+a bunch of text
+
+print sidflsk 
+print sidflsk
+
+```{python}
+print("Hehe")
+```
+
+
+
+
+
+
+sidflsk

@@ -1,0 +1,12 @@
+{
+  "hash": "4579aad81a90bde9833c249a27995ea8",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Dashboard\"\nauthor: \"Shenal Peries\"\nformat: dashboard\n---\n\n## Header\n\n::: {#e0815899 .cell execution_count=1}\n\n::: {.cell-output .cell-output-stdout}\n```\nhello\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "dashboard_files\\figure-html"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
