@@ -1,9 +1,12 @@
 ---
 title: "About"
+image: "assets/about-image.jpg"
+about:
+    template: jolla
 ---
 
 - Data Science (B.S.) + Finance (B.S.)
 - Building ML demos and analytics writeups
 - Interested in internships and applied projects
 
-Contact: [Email](mailto:shenal.peries@my.smsu.edu).[LinkedIn](https://www.linkedin.com/in/shenal-alexander-peries/)
+Contact: [Email](mailto:shenal.peries@my.smsu.edu)
