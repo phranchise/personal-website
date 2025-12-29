@@ -4,12 +4,12 @@ project:
 
 website:
   site-url: https://shenalperies.github.io/personal-portfolio/
-  favicon: logos/favicon.ico
+  favicon: logos/personal-logo.svg
   google-analytics: UA-XXXXXXXXX-X
   title: "Shenal Peries's Portfolio"
   description: "A portfolio showcasing projects and examples by Shenal Peries."
   navbar:
-    logo: logos/logo.jpg
+    logo: logos/personal-logo.svg
     right:
       - text: Projects
         href: projects/index.qmd
