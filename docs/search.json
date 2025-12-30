@@ -67,7 +67,7 @@
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "Here are notes and writeups from projects and learning.\n\nBuilding a Cat vs Dog Classifier with fast.ai\n\nfastai\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSaving a Basic Fastai Model\n\n\n\nfastai\n\ncode\n\n\n\nHow to create and save a ML model\n\n\n\n\n\nDec 28, 2025\n\n\nShenal Peries\n\n\n\n\n\n\n\n\n\n\n\n\nBuilding a Cat vs Dog Classifier with fast.ai (Lesson 2)\n\n\n\nfastai\n\ncode\n\nmachine learning\n\n\n\nA simple model to classify if a given image is a dog or cat with a confidence level\n\n\n\n\n\nDec 27, 2025\n\n\nShenal Alexander Peries\n\n\n\n\n\nNo matching items"
+    "text": "Here are notes and writeups from projects and learning.\n\nBuilding a Cat vs Dog Classifier with fast.ai\n\nfastai\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSaving a Basic Fastai Model\n\n\n\nfastai\n\ncode\n\n\n\nHow to create and save a ML model\n\n\n\n\n\nDec 28, 2025\n\n\nShenal Peries\n\n\n\n\n\n\n\n\n\n\n\n\nBuilding a Cat vs Dog Classifier with fast.ai (Lesson 2)\n\n\n\nfastai\n\ncode\n\nmachine learning\n\n\n\nA simple model to classify if a given image is a dog or cat with a confidence level\n\n\n\n\n\nDec 27, 2025\n\n\nShenal Alexander Peries\n\n\n\n\n\n\n\n\n\n\n\n\nHello Quarto\n\n\n\nquarto\n\ntutorial\n\n\n\n\n\n\n\n\n\nDec 26, 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/index.html",
@@ -82,5 +82,12 @@
     "title": "Projects",
     "section": "",
     "text": "What: Image classifier with confidence scores\nLinks: Demo"
+  },
+  {
+    "objectID": "blog/posts/2025-12-26-hello-quarto.html",
+    "href": "blog/posts/2025-12-26-hello-quarto.html",
+    "title": "Hello Quarto",
+    "section": "",
+    "text": "Hello World\nThis is my first post using Quarto!\nI’m testing that code and visualizations render correctly.\n\n\nCode\nimport matplotlib.pyplot as plt\n\nx = [1, 2, 3, 4, 5]\ny = [i**2 for i in x]\n\nplt.plot(x, y)\nplt.xlabel(\"x\")\nplt.ylabel(\"x squared\")\nplt.title(\"Simple Test Plot\")\nplt.show()"
   }
 ]

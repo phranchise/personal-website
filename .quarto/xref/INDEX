@@ -16,5 +16,8 @@
   },
   "about.qmd": {
     "about.html": "4ab3ea3d"
+  },
+  "blog/posts/2025-12-26-hello-quarto.qmd": {
+    "2025-12-26-hello-quarto.html": "cf29008c"
   }
 }

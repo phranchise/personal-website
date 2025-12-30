@@ -1,0 +1,29 @@
+---
+title: Hello Quarto
+date: 2025-12-26
+categories: [quarto, tutorial]
+tags: [quarto, introduction]
+format: 
+    html:
+        code-fold: true
+---
+
+# Hello World
+This is my first post using Quarto!
+
+I'm testing that code and visualizations render correctly.
+
+
+```{python}
+import matplotlib.pyplot as plt
+
+x = [1, 2, 3, 4, 5]
+y = [i**2 for i in x]
+
+plt.plot(x, y)
+plt.xlabel("x")
+plt.ylabel("x squared")
+plt.title("Simple Test Plot")
+plt.show()
+
+```

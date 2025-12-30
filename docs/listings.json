@@ -3,7 +3,8 @@
     "listing": "/blog/index.html",
     "items": [
       "/blog/posts/2025-12-28-saving-a-model.html",
-      "/blog/posts/2025-12-27-cat-dog-classifier-fastai.html"
+      "/blog/posts/2025-12-27-cat-dog-classifier-fastai.html",
+      "/blog/posts/2025-12-26-hello-quarto.html"
     ]
   }
 ]
